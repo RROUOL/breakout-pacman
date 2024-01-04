@@ -1,0 +1,321 @@
+[api-updater (non-obsolete-error-filter)] 10/11/2021 21:22:22 : Starting C:/Users/Lucas/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 6760.5326ms
+moved types parse time: 159ms
+candidates parse time : 1ms
+C# parse time         : 1507ms
+candidates check time : 53ms
+console write time    : 4ms
+
+[api-updater (non-obsolete-error-filter)] 11/11/2021 16:10:36 : Starting C:/Users/Lucas/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3823.9176ms
+moved types parse time: 78ms
+candidates parse time : 2ms
+C# parse time         : 835ms
+candidates check time : 51ms
+console write time    : 9ms
+
+[api-updater (non-obsolete-error-filter)] 11/11/2021 16:10:59 : Starting C:/Users/Lucas/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 137.9987ms
+moved types parse time: 75ms
+candidates parse time : 2ms
+C# parse time         : 278ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/11/2021 16:12:36 : Starting C:/Users/Lucas/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 103.9997ms
+moved types parse time: 75ms
+candidates parse time : 2ms
+C# parse time         : 284ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/11/2021 16:12:55 : Starting C:/Users/Lucas/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 127.0703ms
+moved types parse time: 80ms
+candidates parse time : 1ms
+C# parse time         : 278ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/11/2021 18:05:15 : Starting C:/Users/Lucas/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 314.1863ms
+moved types parse time: 75ms
+candidates parse time : 1ms
+C# parse time         : 342ms
+candidates check time : 120ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/11/2021 18:44:18 : Starting C:/Users/Lucas/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 199.9989ms
+moved types parse time: 87ms
+candidates parse time : 2ms
+C# parse time         : 285ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/11/2021 02:27:14 : Starting C:/Users/Lucas/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2290.9945ms
+moved types parse time: 102ms
+candidates parse time : 13ms
+C# parse time         : 795ms
+candidates check time : 78ms
+console write time    : 4ms
+
+[api-updater (non-obsolete-error-filter)] 18/11/2021 15:41:20 : Starting C:/Users/Lucas/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from C:\Users\Lucas\Documents\Game Shit\Breakout\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 4419.9805ms
+moved types parse time: 254ms
+candidates parse time : 93ms
+C# parse time         : 2049ms
+candidates check time : 124ms
+console write time    : 33ms
+
+[api-updater (non-obsolete-error-filter)] 02/12/2021 18:46:49 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from D:\Documents\Game Shit\Breakout\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1293.4438ms
+moved types parse time: 85ms
+candidates parse time : 1ms
+C# parse time         : 948ms
+candidates check time : 50ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 02/12/2021 19:49:07 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from D:\Documents\Game Shit\Breakout\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 104.0474ms
+moved types parse time: 75ms
+candidates parse time : 1ms
+C# parse time         : 329ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/12/2021 20:17:57 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2280.7338ms
+moved types parse time: 82ms
+candidates parse time : 2ms
+C# parse time         : 948ms
+candidates check time : 45ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 05/12/2021 20:18:35 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 101.9855ms
+moved types parse time: 77ms
+candidates parse time : 1ms
+C# parse time         : 320ms
+candidates check time : 57ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13/01/2022 10:59:39 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1647.9929ms
+moved types parse time: 82ms
+candidates parse time : 1ms
+C# parse time         : 888ms
+candidates check time : 45ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 30/01/2022 21:36:33 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1637.9677ms
+moved types parse time: 80ms
+candidates parse time : 1ms
+C# parse time         : 955ms
+candidates check time : 47ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 30/01/2022 22:07:18 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 112.0522ms
+moved types parse time: 77ms
+candidates parse time : 1ms
+C# parse time         : 300ms
+candidates check time : 49ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 31/01/2022 15:56:06 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 533.2576ms
+moved types parse time: 81ms
+candidates parse time : 1ms
+C# parse time         : 283ms
+candidates check time : 70ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 31/01/2022 16:03:24 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 183.9968ms
+moved types parse time: 78ms
+candidates parse time : 1ms
+C# parse time         : 304ms
+candidates check time : 63ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 31/01/2022 17:59:46 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 371.2077ms
+moved types parse time: 74ms
+candidates parse time : 1ms
+C# parse time         : 293ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 31/01/2022 19:07:23 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 161.9993ms
+moved types parse time: 79ms
+candidates parse time : 1ms
+C# parse time         : 307ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 31/01/2022 19:10:47 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 107.0328ms
+moved types parse time: 76ms
+candidates parse time : 1ms
+C# parse time         : 297ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 31/01/2022 19:11:05 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 104.0011ms
+moved types parse time: 90ms
+candidates parse time : 1ms
+C# parse time         : 300ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 31/01/2022 19:11:31 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 131.1933ms
+moved types parse time: 86ms
+candidates parse time : 1ms
+C# parse time         : 310ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 31/01/2022 19:12:04 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 101.0018ms
+moved types parse time: 78ms
+candidates parse time : 1ms
+C# parse time         : 297ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 31/01/2022 19:27:07 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 111.0054ms
+moved types parse time: 74ms
+candidates parse time : 1ms
+C# parse time         : 307ms
+candidates check time : 64ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 01/02/2022 10:17:05 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2454.5808ms
+moved types parse time: 84ms
+candidates parse time : 16ms
+C# parse time         : 1085ms
+candidates check time : 71ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 01/02/2022 10:21:07 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 145.9979ms
+moved types parse time: 76ms
+candidates parse time : 15ms
+C# parse time         : 289ms
+candidates check time : 69ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 01/02/2022 14:48:37 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1467.9106ms
+moved types parse time: 77ms
+candidates parse time : 3ms
+C# parse time         : 973ms
+candidates check time : 120ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 01/02/2022 14:50:19 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 130.2621ms
+moved types parse time: 77ms
+candidates parse time : 1ms
+C# parse time         : 301ms
+candidates check time : 129ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 01/02/2022 15:23:10 : Starting D:/Documents/Game Shit/2020.3.10f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 108.953ms
+moved types parse time: 78ms
+candidates parse time : 1ms
+C# parse time         : 315ms
+candidates check time : 69ms
+console write time    : 0ms
+
